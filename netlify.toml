@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"            # Redirect all paths
-  to = "/index.js"     # Redirect to index.html for all paths
+  to = "/index.html"     # Redirect to index.html for all paths
   status = 200           # Set the status code to 200 for these redirects
